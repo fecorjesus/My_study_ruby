@@ -1,0 +1,3 @@
+nome = "Felipe"
+
+puts nome
