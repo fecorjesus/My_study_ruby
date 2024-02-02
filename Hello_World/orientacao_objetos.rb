@@ -143,8 +143,4 @@ end
 
 obj = MinhaClasse.new
 obj.m1
-
-
-
-
-
+=end
