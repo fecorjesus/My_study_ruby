@@ -1,3 +1,4 @@
+conta_bancaria.rb
 #Exercicio pratico
 
 # Criar uma classe responsavel para contas bancarias
@@ -35,7 +36,6 @@ class ContaBancaria
     protected
         def depositar(valor_para_depositar)
             @valor += valor_para_depositar
-
+        end
     end
-
 end
