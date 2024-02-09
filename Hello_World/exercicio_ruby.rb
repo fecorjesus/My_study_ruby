@@ -25,7 +25,7 @@ def idade_em_dias(idade_em_anos)
   # Exemplo de uso
   idade_em_anos = 46
   idade_em_dias_resultado = idade_em_dias(idade_em_anos)
-  puts "Idade em anos: #{idade_em_anos}"
+  puts "Idade echam anos: #{idade_em_anos}"
   puts "Idade em dias: #{idade_em_dias_resultado}"
 =end
 
